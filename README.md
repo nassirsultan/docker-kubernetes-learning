@@ -9,7 +9,7 @@ Each scenario is hands-on — real code, real errors, real fixes.
 
 ## Tech Stack
 - Java 17 / Spring Boot
-- H2 (in-memory DB)
+- MySQL (containerized)
 - Docker Desktop (Windows 11)
 - Kubernetes (Minikube - coming soon)
 
@@ -19,7 +19,7 @@ Each scenario is hands-on — real code, real errors, real fixes.
 |---|----------|--------|
 | 01 | [Containerize the Spring Boot App](./scenario-01-containerize) | ✅ Done |
 | 02 | [Docker CLI Basics](./scenario-02-docker-basics) | ✅ Done |
-| 03 | Docker Compose — App + MySQL | 🔜 |
+| 03 | [Docker Compose — App + MySQL](./scenario-03-docker-compose) | ✅ Done |
 | 04 | Push Image to Docker Hub | 🔜 |
 | 05 | Kubernetes Intro — Minikube + Pod | 🔜 |
 | 06 | K8s Deployments & Services | 🔜 |
