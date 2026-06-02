@@ -18,7 +18,7 @@ Each scenario is hands-on — real code, real errors, real fixes.
 | # | Scenario | Status |
 |---|----------|--------|
 | 01 | [Containerize the Spring Boot App](./scenario-01-containerize) | ✅ Done |
-| 02 | Docker Basics — CLI commands | 🔜 |
+| 02 | [Docker CLI Basics](./scenario-02-docker-basics) | ✅ Done |
 | 03 | Docker Compose — App + MySQL | 🔜 |
 | 04 | Push Image to Docker Hub | 🔜 |
 | 05 | Kubernetes Intro — Minikube + Pod | 🔜 |
