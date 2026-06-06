@@ -11,7 +11,7 @@ Each scenario is hands-on — real code, real errors, real fixes.
 - Java 17 / Spring Boot
 - MySQL (containerized)
 - Docker Desktop (Windows 11)
-- Kubernetes (Minikube - coming soon)
+- Kubernetes via Minikube
 
 ## Scenarios
 
@@ -21,7 +21,7 @@ Each scenario is hands-on — real code, real errors, real fixes.
 | 02 | [Docker CLI Basics](./scenario-02-docker-basics) | ✅ Done |
 | 03 | [Docker Compose — App + MySQL](./scenario-03-docker-compose) | ✅ Done |
 | 04 | [Push Image to Docker Hub](./scenario-04-docker-hub) | ✅ Done |
-| 05 | Kubernetes Intro — Minikube + Pod | 🔜 |
+| 05 | [Kubernetes Intro — Minikube + Pod](./scenario-05-k8s-intro) | ✅ Done |
 | 06 | K8s Deployments & Services | 🔜 |
 | 07 | K8s ConfigMaps & Secrets | 🔜 |
 
