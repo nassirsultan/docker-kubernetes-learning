@@ -22,7 +22,7 @@ Each scenario is hands-on — real code, real errors, real fixes.
 | 03 | [Docker Compose — App + MySQL](./scenario-03-docker-compose) | ✅ Done |
 | 04 | [Push Image to Docker Hub](./scenario-04-docker-hub) | ✅ Done |
 | 05 | [Kubernetes Intro — Minikube + Pod](./scenario-05-k8s-intro) | ✅ Done |
-| 06 | K8s Deployments & Services | 🔜 |
+| 06 | [K8s Deployments & Services](./scenario-06-k8s-deployments) | ✅ Done |
 | 07 | K8s ConfigMaps & Secrets | 🔜 |
 
 ## Key Insight
