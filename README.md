@@ -23,10 +23,19 @@ Each scenario is hands-on — real code, real errors, real fixes.
 | 04 | [Push Image to Docker Hub](./scenario-04-docker-hub) | ✅ Done |
 | 05 | [Kubernetes Intro — Minikube + Pod](./scenario-05-k8s-intro) | ✅ Done |
 | 06 | [K8s Deployments & Services](./scenario-06-k8s-deployments) | ✅ Done |
-| 07 | K8s ConfigMaps & Secrets | 🔜 |
+| 07 | [K8s ConfigMaps & Secrets](./scenario-07-k8s-config) | ✅ Done |
 
 ## Key Insight
 
 Docker and Kubernetes are the backbone of microservices deployment.
 - **Docker** solves the *"it works on my machine"* problem
 - **Kubernetes** solves the *"how do I manage 10+ services across many servers"* problem
+
+## What I Built
+
+A complete Docker + Kubernetes learning journey using a Spring Boot Employee Service:
+- Containerized a Spring Boot app with Docker
+- Ran multi-container setup with Docker Compose
+- Published image to Docker Hub
+- Deployed to Kubernetes with self-healing and scaling
+- Managed config and secrets properly with ConfigMaps and Secrets

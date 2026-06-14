@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: employee-config
+data:
+  DB_URL: jdbc:mysql://mysql-service:3306/employee_db
+  DB_NAME: employee_db
+  SERVER_PORT: "8080"
